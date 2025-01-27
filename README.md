@@ -37,3 +37,5 @@ Customer Targeting: Focus on women and adult customers for marketing campaigns.
 Channel Optimization: Enhance presence on Amazon, Myntra, and Flipkart to maximize sales.
 Geographical Focus: Invest in targeted campaigns for high-performing states like Maharashtra and Karnataka.
 Improving Returns: Address the 8% cancellation/return rate by improving product descriptions and customer service.
+
+![Image](https://github.com/user-attachments/assets/255f74b6-fc40-44fe-9ec2-02ea76bb8ea1)
